@@ -1,1 +1,15 @@
-# SQL
+# SQL 
+
+All SQLZOO Exercises and quizzes solved
+
+# Exercises/files
+
+SELECT BASICS  
+SELECT FROM NOBEL  
+SELECT FROM WORLD  
+SELECT IN SELECT  
+JOIN  
+MORE JOIN  
+SELF JOIN  
+SUM AND COUNT  
+USING NULL  
