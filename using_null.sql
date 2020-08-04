@@ -65,5 +65,3 @@ Splint	Computing
 Spiregrain	Other
 Cutflower	Other
 Deadyawn	Other*/
-
-/*1*/
